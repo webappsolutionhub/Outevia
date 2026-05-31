@@ -1,5 +1,5 @@
 # Outevia – README
-
+ 
 Outevia is a Windows tool designed to quickly zoom, inspect and annotate images, charts and visual details inside documents and email messages without changing the document zoom level or breaking your reading flow.
 
 ---

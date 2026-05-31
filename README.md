@@ -1,3 +1,12 @@
+# Outevia - Document Image Viewer 
+
+![Outevia Logo](https://outevia.com/assets/logo.png)
+
+Outevia is a Windows application designed to optimize visual analysis inside documents and email messages. It acts as an intelligent visualization layer you use while reading text documents, PDFs, or handling emails, allowing you to instantly isolate and enlarge any selectable image without changing the document layout or zoom, so you can keep your focus on what you are reading.
+
+---
+
+
 # Outevia – README
  
 Outevia is a Windows tool designed to quickly zoom, inspect and annotate images, charts and visual details inside documents and email messages without changing the document zoom level or breaking your reading flow.

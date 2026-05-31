@@ -7,8 +7,8 @@ Outevia is a Windows application designed to optimize visual analysis inside doc
 ---
 
 # LICENSE:
-License: Outevia Software License Agreement (EULA)
-[Outevia EULA License](https://outevia.com//assets/LICENSE_en.txt)
+License: Outevia Software License Agreement (EULA):
+[https://outevia.com//assets/LICENSE_en.txt](https://outevia.com//assets/LICENSE_en.txt)
 
 ## Key Features
 
